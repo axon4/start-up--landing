@@ -1,7 +1,7 @@
-# Startup Page
+# Start-Up--Landing
 
-* Simple page for capturing emails for startups.
-* HTML elements are responsive.
+* simple landing-page to capture eMails for start-ups
+* HTML-elements are responsive
 
 ## Stack
 
